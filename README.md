@@ -1,5 +1,8 @@
 # build_MyAnimeList_api
 
+
+<img align="center" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp5306233.jpg">
+
 Choose an anime database API: There are several anime databases available online, such as MyAnimeList, AniList, and Kitsu. Choose one that suits your needs and create an account to obtain an API key.
 
 Install necessary dependencies: You will need to install the following Node.js modules:
